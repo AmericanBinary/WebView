@@ -27,3 +27,4 @@ launchSettings.json
 WebViewControl/FodyWeavers.xsd
 WebViewControl.Avalonia/FodyWeavers.xsd
 **/*.DS_Store
+/Directory.Packages.props
